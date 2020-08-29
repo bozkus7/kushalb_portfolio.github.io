@@ -1,4 +1,4 @@
-Hi My name is Kushal Bhatt non developer and new to Github so decided to create my portfolio and host via Github page.
+### Hi My name is Kushal Bhatt non developer and new to Github so decided to create my portfolio and host via Github page.
 
 
 Credits:
